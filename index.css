@@ -11,6 +11,8 @@ body {
   img{
     filter: brightness(1.5);
   }
+
+
   .container{
     background: white;
     opacity: 0.90;
